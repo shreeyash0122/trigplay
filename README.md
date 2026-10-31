@@ -4,6 +4,8 @@ An interactive web app that shows how trigonometry is used in video game develop
 
 🔗 **Live demo:** https://trigplay-math-that-make-games-move.vercel.app/
 
+![TrigPlay screenshot](screenshot.png)
+
 ## Features
 - Movement simulator showing how sine and cosine move characters
 - Game-style examples inspired by Minecraft and Fortnite
